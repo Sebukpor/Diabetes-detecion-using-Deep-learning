@@ -1,7 +1,3 @@
-Sure, here is the updated README file with the inclusion of the health parameters for better clarity and understanding.
-
----
-
 # README for Diabetic Detection Model
 
 ## Overview
